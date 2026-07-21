@@ -1,0 +1,4 @@
+source /opt/ros/jazzy/setup.bash
+source ~/ROS_Project/install/setup.bash
+
+ros2 launch mrm_description display.launch.py
