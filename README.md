@@ -1,4 +1,4 @@
-# ros2-urdf-4dof-industrial-arm# 4-DOF Industrial Robotic Arm — URDF Model in ROS 2 (Jazzy)
+4-DOF Industrial Robotic Arm — URDF Model in ROS 2 (Jazzy)
 
 A ROS 2 package containing a complete URDF/Xacro model of a **4-degree-of-freedom serial robotic arm**, visualized in RViz2 with live joint control and a verified TF tree.
 
